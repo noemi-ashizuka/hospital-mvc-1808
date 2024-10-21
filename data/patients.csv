@@ -1,0 +1,5 @@
+id,name,cured,room_id
+1,Arisa,false,1
+2,Dylan,false,1
+3,Toby,true,2
+4,Jarod,false,2
